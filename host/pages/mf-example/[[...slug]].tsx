@@ -38,7 +38,7 @@ const ModuleFederationPage = () => {
                 alignItems: 'center',
             }}>
             <h2>
-                dynamic content
+                Host Element
             </h2>
             <p>Slug: {slug}</p>
             <div
